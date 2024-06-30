@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author deyta
+ *
+ */
+module MagicalArena {
+}
